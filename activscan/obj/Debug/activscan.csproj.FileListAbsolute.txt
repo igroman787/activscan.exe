@@ -1,0 +1,10 @@
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\bin\Debug\activscan.exe.config
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\bin\Debug\activscan.exe
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\bin\Debug\activscan.pdb
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\bin\Debug\Newtonsoft.Json.dll
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\obj\Debug\activscan.csprojResolveAssemblyReference.cache
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\obj\Debug\activscan.Form1.resources
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\obj\Debug\activscan.Properties.Resources.resources
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\obj\Debug\activscan.csproj.GenerateResource.Cache
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\obj\Debug\activscan.exe
+c:\users\igroman787\documents\visual studio 2013\Projects\activscan\activscan\obj\Debug\activscan.pdb
